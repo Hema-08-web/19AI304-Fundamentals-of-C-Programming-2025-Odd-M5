@@ -303,7 +303,9 @@ int main()
 }
 ```
 # Output:
-<img width="1002" height="538" alt="image" src="https://github.com/user-attachments/assets/94415cbd-9fa3-481c-83fe-b9d64c5aaec9" />
+<img width="423" height="316" alt="image" src="https://github.com/user-attachments/assets/05f54545-55c1-4a0a-b5c6-5b87899dc95c" />
+
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
